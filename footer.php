@@ -9,17 +9,20 @@
             <div class="col-12 col-md-6 col-lg-3">
                 <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7"><strong>Links</strong></h5>
                 <ul class="list mbr-fonts-style display-4">
-                    <li class="mbr-text item-wrap"><span style="font-size: 1.1rem;">Who</span></li><li class="mbr-text item-wrap"><span style="font-size: 1.1rem;">Where</span></li><li class="mbr-text item-wrap"><span style="font-size: 1.1rem;">How</span></li><li class="mbr-text item-wrap"><span style="font-size: 1.1rem;">Read In Tamil</span></li>
+                    <li class="mbr-text item-wrap"><a href="who.php">Who</a></li>
+                    <li class="mbr-text item-wrap"><a href="where.php">Where</a></li>
+                    <li class="mbr-text item-wrap"><a href="how.php">How</a></li>
+                    <li class="mbr-text item-wrap"><a href="read-in-tamil.php">Read In Tamil</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
                 <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
                     <strong>Actions</strong></h5>
                 <ul class="list mbr-fonts-style display-4">
-
-                    <li class="mbr-text item-wrap">Donate</li>
-                    <li class="mbr-text item-wrap">Become a Bible Warrior</li>
-                    <li class="mbr-text item-wrap">Apply for fund</li><li class="mbr-text item-wrap">Contact Us</li>
+                    <li class="mbr-text item-wrap"><a href="donate.php">Donate</a></li>
+                    <li class="mbr-text item-wrap"><a href="bible-warrior.php">Become a Bible Warrior</a></li>
+                    <li class="mbr-text item-wrap"><a href="apply-for-fund.php">Apply for fund</a></li>
+                    <li class="mbr-text item-wrap"><a href="contact-us.php">Contact Us</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-6 col-lg-3">

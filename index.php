@@ -1,4 +1,5 @@
 <?php
+$title = "Home | Holy Bible Foundation";
 include 'header.php';
 ?>
 

@@ -881,6 +881,17 @@ blockquote {
   margin-bottom: 2rem !important;
 }
 
+.ml-2 {
+  margin-left: 1rem !important;
+}
+
+.ml-4 {
+  margin-left: 2rem !important;
+}
+
+.mr-4 {
+  margin-right: 2rem !important;
+}
 @media (min-width: 992px) {
   .container {
     padding-left: 16px;
